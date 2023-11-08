@@ -1,0 +1,56 @@
+#header {
+    margin-top: 1cm;
+    color: red;
+}
+#eight-ball {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    margin-left: 18.5cm;
+    margin-top: 2cm;
+}
+#center {
+    display: flex;
+
+    background-color: white;
+    font-size: 75px;
+    border-radius: 50%;
+    width: 2cm;
+    height: 2cm;
+    justify-content: center;
+    margin-left: 5.70cm;
+    padding-bottom: 10px;
+}
+#display {
+    display: flex;
+    flex-direction: column;
+    background-color: lightcoral;
+    width: 7cm;
+    height: 2cm;
+    margin-left: 3.25cm;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#button {
+    margin-top: 1cm;
+}
+button {
+    width: 6cm;
+    height: 2cm;
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#text {
+    text-align: center;
+    margin-top: .75cm;
+    color: blue;
+}
